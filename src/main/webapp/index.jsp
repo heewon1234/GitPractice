@@ -9,6 +9,6 @@
 
 </head>
 <body>
-	index.jsp
+	index.jsp 내용추가
 </body>
 </html>
